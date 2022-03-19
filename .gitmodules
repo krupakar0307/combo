@@ -1,12 +1,3 @@
 [submodule "ReactJS"]
 	path = ReactJS
-	url = https://github.com/krupakar0307/ReactJS
-<<<<<<< HEAD
-[submodule "spring-boot-mongo-docker"]
-	path = spring-boot-mongo-docker
-	url = https://github.com/krupakar0307/spring-boot-mongo-docker.git
-[submodule "myweb"]
-	path = myweb
-	url = https://github.com/krupakar0307/myweb.git
-=======
->>>>>>> d6ec9a45ea112d3786ecc61c143bffe3aeb3690d
+	url = https://github.com/krupakar0307/ReactJS.git
