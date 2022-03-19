@@ -1,3 +1,6 @@
 [submodule "ReactJS"]
 	path = ReactJS
 	url = https://github.com/krupakar0307/ReactJS.git
+[submodule "my-app"]
+	path = my-app
+	url = https://github.com/krupakar0307/my-app.git
