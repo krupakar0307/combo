@@ -1,9 +1,3 @@
-[submodule "iflipkart"]
-	path = iflipkart
-	url = https://github.com/krupakar0307/iflipkart
 [submodule "ReactJS"]
 	path = ReactJS
 	url = https://github.com/krupakar0307/ReactJS
-[submodule "spring-boot-mongo-docker"]
-	path = spring-boot-mongo-docker
-	url = https://github.com/krupakar0307/spring-boot-mongo-docker.git
