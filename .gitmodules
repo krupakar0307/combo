@@ -7,3 +7,6 @@
 [submodule "spring-boot-mongo-docker"]
 	path = spring-boot-mongo-docker
 	url = https://github.com/krupakar0307/spring-boot-mongo-docker.git
+[submodule "myweb"]
+	path = myweb
+	url = https://github.com/krupakar0307/myweb.git
